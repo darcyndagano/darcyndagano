@@ -1,36 +1,65 @@
 ## 🧠 Profile
 
 Full-Stack Developer specialized in backend development with **Python and Django**.  
-Strong experience in building **scalable web applications**, REST APIs, database design, caching, and deployment on Linux servers.  
+Strong experience in building scalable web applications, REST APIs, database design, caching, and Linux server deployment.  
 Bachelor’s degree in Computer Science with specialization in **Network Engineering**.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+<p align="left">
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
-![Django REST](https://img.shields.io/badge/Django%20REST-000000?style=for-the-badge&logo=django)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Celery](https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery)
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+</a>
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django-rest-framework" width="40" height="40"/>
+</a>
 
-### Other
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
-![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions)
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
+</a>
+
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+</p>
